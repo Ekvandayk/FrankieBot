@@ -10,6 +10,7 @@
     "ffmpeg-static": "latest",
     "fstorm": "latest",
     "jimp": "latest",
+    "node-fetch": "^3.3.2",
     "opusscript": "^0.0.8",
     "tweetnacl": "latest",
     "youtube-dl-exec": "^2.0.2",
